@@ -143,6 +143,10 @@ i {
   letter-spacing: 5px;
 }
 
+span.border:hover {
+    background-color: rgab(0, 0, 0, 0.9);
+}
+
 .caption-two span.border {
   /*background-color: #111;*/
   background-color: rgab(0, 0, 0, 0.7);
